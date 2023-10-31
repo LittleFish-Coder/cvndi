@@ -4,7 +4,8 @@
 https://github.com/buresu/ndi-python
 
 ## 官方gui tool連結(支援Windows,macOS)
-https://gist.github.com/derhuerst/83653c13d94e03723a4f6d27ad6e716a
+- [NDI Tools for Windows](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
+- [NDI Tools for MacOS](https://downloads.ndi.tv/Tools/NDIToolsInstaller.pkg)
 
 ## 安裝環境
 注意！安裝環境有特別限制，請不要安裝python 3.10以上的版本！
